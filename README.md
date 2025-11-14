@@ -1,10 +1,10 @@
-React Product Catalog
+# React Product Catalog
 
 - Live Preview: [Demo Link](https://melarkkkk.github.io/react_phone-catalog/)
 
 - Design Reference: [Original](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=gBjLFr5ueQIheSqp-0) / [Original Dark](https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark)
 
-Technologies Used
+## Technologies Used
 
 - React + TypeScript
 
@@ -20,7 +20,7 @@ Technologies Used
 
 - ESLint, Prettier for code quality
 
-Project Structure
+## Project Structure
 ```
 src/
 ├── components/      # Shared components like Header, Footer, Logo
@@ -28,7 +28,8 @@ src/
 ├── modules/         # Pages: HomePage, CartPage, FavoritesPage, ProductDetailsPage, ProductsPage, NotFoundPage
 └── utils/           # Helpers, types, variables
 ```
-Getting Started
+
+## Getting Started
 
 1. Clone the repo
 ```
@@ -57,7 +58,7 @@ npm run lint
 npm run format
 ```
 
-- Features
+## Features
 
   - Responsive Design: Optimized for different screen sizes and devices
 
