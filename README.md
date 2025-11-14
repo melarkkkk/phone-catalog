@@ -44,19 +44,9 @@ npm install
 
 3. Run development server
 ```
-npm run dev
+npm start
 ```
 
-4. Build for production
-```
-npm run build
-```
-
-5. Lint and format
-```
-npm run lint
-npm run format
-```
 
 ## Features
 
