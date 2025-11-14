@@ -42,7 +42,7 @@ cd phone-catalog
 npm install
 ```
 
-3. Run development server
+3. Start the project
 ```
 npm start
 ```
